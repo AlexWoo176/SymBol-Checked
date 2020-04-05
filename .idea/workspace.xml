@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21fb126b-fcad-46fd-a7bb-cde4cbed4ddf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a6odIT8HUGsYKdvSAdbs8fEtaD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Application.MainTest">
+    <configuration name="MainSymbolCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codegym.mon.MainSymbolCheck" />
+      <module name="SymbolText-Check" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codegym.mon.MainTest" />
+      <module name="SymbolText-Check" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.MainSymbolCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21fb126b-fcad-46fd-a7bb-cde4cbed4ddf" name="Default Changelist" comment="" />
+      <created>1586065489084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586065489084</updated>
+      <workItem from="1586065490895" duration="3271000" />
+      <workItem from="1586068831139" duration="663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="608" y="143" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1586067004870">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state x="608" y="143" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1600.796@0.27.1600.796" timestamp="1586067004870" />
+    <state width="1554" height="194" key="GridCell.Tab.0.bottom" timestamp="1586069533752">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="194" key="GridCell.Tab.0.bottom/0.27.1600.796@0.27.1600.796" timestamp="1586069533752" />
+    <state width="1554" height="194" key="GridCell.Tab.0.center" timestamp="1586069533748">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="194" key="GridCell.Tab.0.center/0.27.1600.796@0.27.1600.796" timestamp="1586069533748" />
+    <state width="1554" height="194" key="GridCell.Tab.0.left" timestamp="1586069533748">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="194" key="GridCell.Tab.0.left/0.27.1600.796@0.27.1600.796" timestamp="1586069533748" />
+    <state width="1554" height="194" key="GridCell.Tab.0.right" timestamp="1586069533748">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state width="1554" height="194" key="GridCell.Tab.0.right/0.27.1600.796@0.27.1600.796" timestamp="1586069533748" />
+    <state x="528" y="151" width="524" height="481" key="extract.method.dialog" timestamp="1586067362154">
+      <screen x="0" y="27" width="1600" height="796" />
+    </state>
+    <state x="528" y="151" width="524" height="481" key="extract.method.dialog/0.27.1600.796@0.27.1600.796" timestamp="1586067362154" />
+  </component>
+</project>
